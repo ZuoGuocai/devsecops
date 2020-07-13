@@ -17,4 +17,11 @@ ps aux |grep nexus
 lsof -i:8081
 ```
 
+# maven 
+
+```
+
+mvn  clean  deploy 
+
+```
 
