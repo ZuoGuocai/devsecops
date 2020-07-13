@@ -15,6 +15,8 @@ ps aux |grep nexus
 
 
 lsof -i:8081
+
+ulimit -n 65536
 ```
 
 # maven 
