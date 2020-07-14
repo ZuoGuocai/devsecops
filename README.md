@@ -74,7 +74,12 @@ wrapper.java.initmemory=1
 ```
 wget https://s3.amazonaws.com/gitlab-runner-downloads/master/rpm/gitlab-runner_amd64.rpm
 
+yum -y install gitlab-runner_amd64.rpm
 
+
+systemctl start   gitlab-runner
+
+gitlab-runner  register  --tls-ca-file DigiCertCA.crt
 
 ```
 
