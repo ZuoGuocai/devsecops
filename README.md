@@ -111,3 +111,6 @@ cat /etc/gitlab-runner/config.toml
 [ - ]  Jenkinsfile
 [ - ]  setting.xml
 [ - ]  pom.xml
+[ - ]  build.gradle
+[ - ]  build.xml
+[ - ]  docker-compose.yml
