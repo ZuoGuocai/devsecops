@@ -19,6 +19,10 @@ lsof -i:8081
 默认密码 cat  /var/lib/tomcats/sonatype-work/nexus3/admin.password
 
 ulimit -n 65536
+
+
+
+同步第三方maven  proxy模式
 ```
 
 # maven 
