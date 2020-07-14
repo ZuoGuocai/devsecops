@@ -84,6 +84,10 @@ systemctl start   gitlab-runner
 
 gitlab-runner  register  --tls-ca-file DigiCertCA.crt
 
+gitlab-ci-multi-runner list
+
+cat /etc/gitlab-runner/config.toml
+
 ```
 
 
