@@ -97,12 +97,18 @@ cat /etc/gitlab-runner/config.toml
 
 # jenkins slave  agent.jar 
 
+gaowei.vip
 
 ```
 
 
 ```
 
+# Git
+
+geektime.com
+
+《玩转Git三剑客》
 
 > config
 
