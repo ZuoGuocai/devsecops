@@ -67,3 +67,22 @@ wrapper.java.initmemory=1
 
 [参考](https://www.cnblogs.com/throwable/p/12907785.html)
 ```
+
+
+# gitlab runner
+
+```
+wget https://s3.amazonaws.com/gitlab-runner-downloads/master/rpm/gitlab-runner_amd64.rpm
+
+
+
+```
+
+
+# jenkins slave.jar 
+
+
+```
+
+
+```
