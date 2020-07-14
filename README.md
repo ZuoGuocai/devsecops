@@ -69,9 +69,12 @@ wrapper.java.initmemory=1
 ```
 
 
-# gitlab runner
+# gitlab runner  
 
 ```
+
+设置----cicd
+
 wget https://s3.amazonaws.com/gitlab-runner-downloads/master/rpm/gitlab-runner_amd64.rpm
 
 yum -y install gitlab-runner_amd64.rpm
