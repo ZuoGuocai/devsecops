@@ -88,6 +88,10 @@ gitlab-ci-multi-runner list
 
 cat /etc/gitlab-runner/config.toml
 
+
+
+[参考](https://www.funtl.com/zh/spring-cloud-itoken-ci/%E4%BD%BF%E7%94%A8-GitLab-Runner.html#%E6%B3%A8%E5%86%8C-runner)
+
 ```
 
 
