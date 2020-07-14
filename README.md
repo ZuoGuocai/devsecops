@@ -63,5 +63,7 @@ wrapper.java.initmemory=1
 
 默认密码 admin admin
 
+中文插件chinese pack
+
 [参考](https://www.cnblogs.com/throwable/p/12907785.html)
 ```
