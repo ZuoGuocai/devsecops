@@ -110,6 +110,19 @@ geektime.com
 
 《玩转Git三剑客》
 
+
+# harbor 
+
+docker registry
+
+
+# k8s
+
+
+# docker
+
+
+
 > config
 
 [ - ]  .gitlab-ci.yml
