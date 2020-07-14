@@ -102,3 +102,12 @@ cat /etc/gitlab-runner/config.toml
 
 
 ```
+
+
+> config
+
+[ - ]  .gitlab-ci.yml
+[ - ]  Dockerfile
+[ - ]  Jenkinsfile
+[ - ]  setting.xml
+[ - ]  pom.xml
