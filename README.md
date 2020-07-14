@@ -95,7 +95,7 @@ cat /etc/gitlab-runner/config.toml
 ```
 
 
-# jenkins slave.jar 
+# jenkins slave  agent.jar 
 
 
 ```
