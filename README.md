@@ -124,6 +124,22 @@ gitlab-runner-windows-amd64.exe status
 
 
 
+FAQ 
+
+```
+1. gitlab CI 失败一次后 fatal: git fetch-pack: expected shallow list
+
+- 升级git 版本 ，默认centos7 是git1.8 
+
+
+
+
+2. x509: certificate signed by unknown authority.
+
+ - 安装ca证书 update-ca-certificates
+```
+
+
 
 # jenkins slave  agent.jar 
 
