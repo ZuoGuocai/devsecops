@@ -186,3 +186,16 @@ docker registry
 [ - ]  build.gradle
 [ - ]  build.xml
 [ - ]  docker-compose.yml
+
+
+
+# 冲突解决
+
+
+git 解决冲突
+maven 解决冲突
+
+
+# IDE 插件
+
+j-profile
