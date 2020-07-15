@@ -137,6 +137,11 @@ FAQ
 2. x509: certificate signed by unknown authority.
 
  - 安装ca证书 update-ca-certificates
+ 
+ 
+3. job 中文乱码
+
+4. 日志时区
 ```
 
 
