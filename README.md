@@ -1,3 +1,8 @@
+# Jira 禅道 和 confluence
+
+
+#  蒲公英 内测分发平台
+
 # nexus
 
 
@@ -214,3 +219,5 @@ Java 内存泄露分析，JProfile
 https://developer.aliyun.com/special/tech-java
 
 https://github.com/alibaba/p3c
+
+[参考文档](https://zhy.readthedocs.io/Backgroud/JavaEE/README/)
