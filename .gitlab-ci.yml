@@ -1,0 +1,36 @@
+build1:
+  tags:
+    - test2
+  stage: build
+  script:
+    - hostname
+    
+build2:
+  tags:
+    - test2
+  stage: build
+  script:
+    - ip a s
+
+test1:
+  tags:
+    - test2
+  stage: test
+  script:
+    - echo "Do a test here"
+    - echo "For example run a test suite"
+
+test2:
+  tags:
+    - test2
+  stage: test
+  script:
+    - echo "Do another parallel test here"
+    - echo "For example run a lint test"
+
+deploy1:
+  tags:
+    - test2
+  stage: deploy
+  script:
+    - echo "Do your deploy here"
