@@ -71,6 +71,7 @@ wrapper.java.initmemory=1
 
 # gitlab runner  
 
+- linux
 ```
 
 设置----cicd
@@ -107,6 +108,21 @@ test2
 1和2 并列
 
 ```
+- windows
+```
+gitlab-runner-windows-amd64.exe install
+
+gitlab-runner-windows-amd64.exe  register
+
+gitlab-runner-windows-amd64.exe  start
+
+gitlab-runner-windows-amd64.exe status
+
+
+
+```
+
+
 
 
 # jenkins slave  agent.jar 
