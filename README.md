@@ -201,6 +201,10 @@ git 解决冲突
 [maven 解决冲突](https://blog.csdn.net/jhon07/article/details/88292065)
 
 
+idea 解决冲突
+https://juejin.im/post/5cf3815ce51d45777540fd5a
+
+
 # IDE 插件
 
 Java 内存泄露分析，JProfile 
