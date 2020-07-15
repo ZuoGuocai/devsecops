@@ -198,4 +198,4 @@ maven 解决冲突
 
 # IDE 插件
 
-j-profile
+Java 内存泄露分析，JProfile 
