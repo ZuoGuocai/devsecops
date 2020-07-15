@@ -198,7 +198,7 @@ docker registry
 
 
 git 解决冲突
-maven 解决冲突
+[maven 解决冲突](https://blog.csdn.net/jhon07/article/details/88292065)
 
 
 # IDE 插件
