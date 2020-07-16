@@ -80,6 +80,10 @@ wrapper.java.initmemory=1
 [参考](https://www.cnblogs.com/throwable/p/12907785.html)
 ```
 
+ > pipeline as code
+
+# argo  gocd
+
 
 # gitlab runner  
 
