@@ -227,6 +227,7 @@ docker 在构建过程中会把同目录中的所有 .dockerignore 和 Dockerfil
 
 .gitignore
 
+.npmignore
 
 ```
 # 冲突解决
