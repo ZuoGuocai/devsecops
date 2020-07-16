@@ -159,7 +159,9 @@ gaowei.vip
 
 
 ```
-# [githook](https://imweb.io/topic/5b13aa38d4c96b9b1b4c4e9d)
+# [githook]
+[使用 Githook 实现团队 Coding Review 流程](https://www.jianshu.com/p/935409ce4c9a)
+[gitbook](https://imweb.io/topic/5b13aa38d4c96b9b1b4c4e9d)
 
 # Git
 
