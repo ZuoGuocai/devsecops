@@ -250,8 +250,9 @@ https://help.aliyun.com/document_detail/30515.html?spm=a2c4g.11174283.2.8.23091a
 
 # keywords
 
--gitflow   
--gitops
+- gitflow   
+- gitops
+
 [gitflow](https://mritd.me/2018/05/11/add-commit-message-style-check-to-your-gitlab/)
 
 
