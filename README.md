@@ -253,3 +253,17 @@ https://help.aliyun.com/document_detail/30515.html?spm=a2c4g.11174283.2.8.23091a
 -gitflow   
 -gitops
 [gitflow](https://mritd.me/2018/05/11/add-commit-message-style-check-to-your-gitlab/)
+
+
+
+
+
+# Tips
+
+```
+Maven中建立的依赖管理方式基本已成为Java语言依赖管理的事实标准，Maven的替代者Gradle也基本沿用了Maven的依赖管理机制。在Maven依赖管理中，唯一标识一个依赖项是由该依赖项的三个属性构成的，分别是groupId、artifactId以及version。这三个属性可以唯一确定一个组件（Jar包或者War包）。
+
+```
+
+
+[理解Maven中的SNAPSHOT版本和正式版本](https://www.cnblogs.com/huang0925/p/5169624.html)
