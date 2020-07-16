@@ -32,6 +32,8 @@ ulimit -n 65536
 
 # maven 
 
+
+[maven environment](https://blog.csdn.net/hongweigg/article/details/54091148)
 ```
 
 mvn  clean  deploy 
