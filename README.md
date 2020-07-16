@@ -202,8 +202,17 @@ docker registry
 
 # k8s
 
-
+```
+k8s 最佳实践
+```
 # docker
+
+
+docker 最佳实践
+```
+https://blog.windrunner.me/sa/docker-best-practice.html
+
+```
 
 #  Sentry 
 
