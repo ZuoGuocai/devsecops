@@ -209,7 +209,7 @@ docker registry
 
 是一个开源的实时错误追踪系统,可以帮助开发者实时监控并修复异常问题。它主要专注于持续集成、提高效率并且提升用户体验
 
-> config
+> build config
 
 [ - ]  .gitlab-ci.yml
 [ - ]  Dockerfile
@@ -220,8 +220,15 @@ docker registry
 [ - ]  build.xml
 [ - ]  docker-compose.yml
 
+>  ignore config
+```
+使用 .dockerignore
+docker 在构建过程中会把同目录中的所有 .dockerignore 和 Dockerfile 以外的文件打包发给镜像， 在文件过多时这会很耗时间。
+
+.gitignore
 
 
+```
 # 冲突解决
 
 
