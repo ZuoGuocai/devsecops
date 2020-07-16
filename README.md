@@ -253,6 +253,9 @@ https://github.com/alibaba/p3c
 [参考文档](https://zhy.readthedocs.io/Backgroud/JavaEE/README/)
 
 
+[arthas 诊断]
+
+https://help.aliyun.com/document_detail/112975.html?spm=a2c4g.11186623.6.594.47382352JBIOGs
 
 # Alibaba Cloud
 
