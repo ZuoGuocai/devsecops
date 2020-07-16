@@ -307,3 +307,8 @@ Maven中建立的依赖管理方式基本已成为Java语言依赖管理的事�
 
 
 [理解Maven中的SNAPSHOT版本和正式版本](https://www.cnblogs.com/huang0925/p/5169624.html)
+
+
+# demo
+
+https://www.qikqiak.com/k8s-book/docs/66.devops.html
