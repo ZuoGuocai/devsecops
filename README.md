@@ -8,6 +8,12 @@
 
 #  蒲公英 内测分发平台
 
+
+# npm private repository
+
+https://github.com/cnpm/cnpmjs.org
+
+
 # nexus
 
 
