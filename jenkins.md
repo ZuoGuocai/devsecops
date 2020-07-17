@@ -1,3 +1,17 @@
+
+
+> 凭据--系统--全局凭据--添加凭据
+
+
+| type | use for |
+|：----：|：----：|
+|username password | github,docker registry|
+
+|secret text   dingding|
+
+
+
+
 ```
 pipeline {
     agent any
