@@ -7,7 +7,9 @@
 
 
 | type | use for |
+
 |：----：|：----：|
+
 |username password | github,docker registry|
 
 |secret text |  dingding|
