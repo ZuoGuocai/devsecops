@@ -1,5 +1,8 @@
 #  理念
 
+![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.JPEG)
+
+
 [devops 元素周期表](https://devops.phodal.com/)
 [devops flow](https://www.processon.com/view/5d1ea322e4b05dcb4397732e?fromnew=1)
 
