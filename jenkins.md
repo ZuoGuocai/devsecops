@@ -6,9 +6,9 @@
 
 
 
-| type | use for |
+| type |use for |
 
-|：----：|：----：|
+|:----:|:----:|
 
 |username password | github,docker registry|
 
