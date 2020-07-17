@@ -1,6 +1,6 @@
 #  理念
 
-![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.JPEG)
+![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.JPG)
 
 
 [devops 元素周期表](https://devops.phodal.com/)
