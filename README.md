@@ -1,3 +1,6 @@
+[![devops](https://img.shields.io/badge/DevOps-Jenkins-green)](http://github.com/ZuoGuocai)
+
+
 #  理念
 
 ![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.JPG)
