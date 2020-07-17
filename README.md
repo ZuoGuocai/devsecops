@@ -3,6 +3,9 @@
 
 #  理念
 
+
+![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.gif)
+
 ![image](https://raw.githubusercontent.com/ZuoGuocai/devsecops/master/images/pipeline.JPG)
 
 
