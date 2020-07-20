@@ -100,7 +100,7 @@ wrapper.java.initmemory=1
 
  > pipeline as code
 
-# argo  gocd
+# argo  gocd  Drone CI  blueking ci
 
 
 # gitlab runner  
