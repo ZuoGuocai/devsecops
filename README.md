@@ -219,6 +219,8 @@ docker registry
 
 # k8s
 
+https://kuboard.cn/
+
 ```
 k8s 最佳实践
 ```
