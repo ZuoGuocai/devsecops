@@ -61,8 +61,10 @@ ulimit -n 65536
 
 mvn  clean  deploy 
 
-```
 
+
+```
+# mvnw 
 #  sonarqube
 
 
